@@ -9,3 +9,6 @@
 ## Arduino
 * [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
 
+## Blender
+* [Camera Projection Painter](https://github.com/BlenderHQ/camera_projection_painter) #blender #photoscan
+
