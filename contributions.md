@@ -12,3 +12,6 @@
 ## Blender
 * [Camera Projection Painter](https://github.com/BlenderHQ/camera_projection_painter) #blender #photoscan
 
+## Crowdin contributions
+* [Projects](https://crowdin.com/profile/kant)
+
