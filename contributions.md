@@ -11,6 +11,7 @@
 
 ## Blender
 * [Camera Projection Painter](https://github.com/BlenderHQ/camera_projection_painter) #blender #photoscan
+* [Nikitron_tools](https://github.com/nortikin/nikitron_tools)
 
 ## Crowdin contributions
 * [Projects](https://crowdin.com/profile/kant)
