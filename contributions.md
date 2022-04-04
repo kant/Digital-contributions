@@ -9,6 +9,9 @@
 ## Arduino
 * [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
 
+## Audio plugin
+* [openAV-ArtyFX](https://github.com/openAVproductions/openAV-ArtyFX)
+
 ## Blender
 * [Camera Projection Painter](https://github.com/BlenderHQ/camera_projection_painter) #blender #photoscan
 * [Nikitron_tools](https://github.com/nortikin/nikitron_tools)
