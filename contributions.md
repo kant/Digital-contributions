@@ -23,3 +23,5 @@
 * [AudioKit Synth One](https://crowdin.com/project/audiokit-synth-one/es-ES)
 * [Open Food Facts](https://crowdin.com/project/openfoodfacts/es-ES)
 
+## Terminal
+* [sub](https://github.com/qrush/sub) #shell #bash #37signals
