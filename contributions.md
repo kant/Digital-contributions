@@ -10,9 +10,6 @@
 ## Arduino
 * [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
 
-## Audio plugin
-* [openAV-ArtyFX](https://github.com/openAVproductions/openAV-ArtyFX)
-
 ## Blender
 * [Camera Projection Painter](https://github.com/BlenderHQ/camera_projection_painter) #blender #photoscan
 * [Nikitron_tools](https://github.com/nortikin/nikitron_tools) #blender
@@ -26,3 +23,10 @@
 
 ## Terminal
 * [sub](https://github.com/qrush/sub) #shell #bash #37signals
+
+## Plugins
+  ### Audio
+  * [openAV-ArtyFX](https://github.com/openAVproductions/openAV-ArtyFX)
+  ### Graphics
+  * [rio-tiler](https://github.com/cogeotiff/rio-tiler) #rasterio #datasets
+  * [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) #rasterio #datasets #GeoTIFF
