@@ -21,6 +21,9 @@
 * [AudioKit Synth One](https://crowdin.com/project/audiokit-synth-one/es-ES)
 * [Open Food Facts](https://crowdin.com/project/openfoodfacts/es-ES)
 
+## Transifex contributions
+* [Qfield documentation](https://www.transifex.com/opengisch/qfield-documentation/)
+
 ## Terminal
 * [sub](https://github.com/qrush/sub) #shell #bash #37signals
 
