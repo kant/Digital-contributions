@@ -3,6 +3,7 @@
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) #utility #system #shortcut #automation
 * [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts): #utility #accesibility
 * [Keka](https://github.com/aonez/Keka) #archiver #compression #utility
+* [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
 
 ## Translations
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) #menu #bar
