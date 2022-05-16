@@ -6,8 +6,8 @@
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
 
 ## Translations
-* [SwiftBar](https://github.com/swiftbar/SwiftBar/) #menu #bar
-* [TRex](https://github.com/amebalabs/TRex) #text #capture
+* [SwiftBar](https://github.com/swiftbar/SwiftBar/) #menu #bar #mac #app
+* [TRex](https://github.com/amebalabs/TRex) #text #capture #mac #app
 
 ## Arduino
 * [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
@@ -18,6 +18,7 @@
 * [MeasureIt_ARCH](https://github.com/kevancress/MeasureIt_ARCH) #architectural #blender #drawing
 * [Halo-Asset-Blender-Development-Toolset](https://github.com/General-101/Halo-Asset-Blender-Development-Toolset) #blender #halo #assets #exporter
 * [Expy-Kit](https://github.com/pKrime/Expy-Kit) #blender #character #rigs
+* [Shot-Manager-Guide](https://github.com/OtherRealms/Shot-Manager-Guide) #blender #shot @guide #rendering
 
 ## Crowdin contributions
 * [Excalidraw](https://crowdin.com/project/excalidraw/es-ES)
@@ -26,7 +27,8 @@
 * [Open Food Facts](https://crowdin.com/project/openfoodfacts/es-ES)
 
 ## Transifex contributions
-* [Qfield documentation](https://www.transifex.com/opengisch/qfield-documentation/)
+* [Qfield documentation](https://www.transifex.com/opengisch/qfield-documentation/) #GIS #fieldwork #mobile
+* [OpenMRS](https://www.transifex.com/openmrs/OpenMRS/dashboard/) #health #care #developing_countries #healthcare #record #system
 
 ## Terminal
 * [sub](https://github.com/qrush/sub) #shell #bash #37signals
