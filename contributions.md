@@ -36,6 +36,9 @@
 ## Terminal
 * [sub](https://github.com/qrush/sub) #shell #bash #37signals
 
+## eBooks
+* [The Magic Book Project](https://github.com/runemadsen/Magic-Book-Project) #ebook #production 
+
 ## Plugins
   ### Audio
   * [openAV-ArtyFX](https://github.com/openAVproductions/openAV-ArtyFX)
