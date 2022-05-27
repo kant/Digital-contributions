@@ -1,18 +1,18 @@
-## Mac Apps
+# Mac
+
+#### Mac Apps
 
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) #utility #system #shortcut #automation
 * [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts): #utility #accesibility
 * [Keka](https://github.com/aonez/Keka) #archiver #compression #utility
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
 
-## Translations
+#### Translations
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) #menu #bar #mac #app
 * [TRex](https://github.com/amebalabs/TRex) #text #capture #mac #app
 
-## Arduino
-* [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
-
-## Blender
+# 3D
+#### Blender
 * [Camera Projection Painter](https://github.com/BlenderHQ/camera_projection_painter) #blender #photoscan
 * [Nikitron_tools](https://github.com/nortikin/nikitron_tools) #blender #2d #curves #3D
 * [MeasureIt_ARCH](https://github.com/kevancress/MeasureIt_ARCH) #architectural #blender #drawing
@@ -21,7 +21,20 @@
 * [Shot-Manager-Guide](https://github.com/OtherRealms/Shot-Manager-Guide) #blender #shot @guide #rendering
 * [Unity Resolve AA Rendertarget On Command](https://github.com/sienaiwun/Unity_AAResolveOnCommand) #blender #render
 
-## Crowdin contributions
+#### Sketchup
+* [OpenCutList by L'Air du Bois](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension) #woodworking #cutlist #diagram
+
+
+## Plugins
+  #### Audio
+  * [openAV-ArtyFX](https://github.com/openAVproductions/openAV-ArtyFX)
+  #### Graphics
+  * [rio-tiler](https://github.com/cogeotiff/rio-tiler) #rasterio #datasets
+  * [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) #rasterio #datasets #GeoTIFF
+
+# Translations
+
+#### Crowdin
 * [Excalidraw](https://crowdin.com/project/excalidraw/es-ES)
 * [AndroidAps](https://crowdin.com/project/androidaps/es-ES)
 * [AudioKit Synth One](https://crowdin.com/project/audiokit-synth-one/es-ES)
@@ -29,19 +42,16 @@
 * [iFixit](https://crowdin.com/project/ifixit)
 * [Electron](https://crowdin.com/project/electron)
 
-## Transifex contributions
+#### Transifex
 * [Qfield documentation](https://www.transifex.com/opengisch/qfield-documentation/) #GIS #fieldwork #mobile
 * [OpenMRS](https://www.transifex.com/openmrs/OpenMRS/dashboard/) #health #care #developing_countries #healthcare #record #system
+
 
 ## Terminal
 * [sub](https://github.com/qrush/sub) #shell #bash #37signals
 
+## Arduino
+* [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
+
 ## eBooks
 * [The Magic Book Project](https://github.com/runemadsen/Magic-Book-Project) #ebook #production 
-
-## Plugins
-  ### Audio
-  * [openAV-ArtyFX](https://github.com/openAVproductions/openAV-ArtyFX)
-  ### Graphics
-  * [rio-tiler](https://github.com/cogeotiff/rio-tiler) #rasterio #datasets
-  * [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) #rasterio #datasets #GeoTIFF
