@@ -55,4 +55,7 @@
 * [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
 
 ## eBooks
-* [The Magic Book Project](https://github.com/runemadsen/Magic-Book-Project) #ebook #production 
+* [The Magic Book Project](https://github.com/runemadsen/Magic-Book-Project) #ebook #production
+
+## Science
+* [Feast](https://github.com/cozygene/FEAST) #algorithm #microbial
