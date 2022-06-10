@@ -59,3 +59,8 @@
 
 ## Science
 * [Feast](https://github.com/cozygene/FEAST) #algorithm #microbial
+* [PKP UI Library](https://github.com/pkp/ui-library) #library #design
+* [PKP Docs](https://github.com/pkp/pkp-docs) #science #documentation #library #management
+* [PKP lib](https://github.com/pkp/pkp-lib) #webapp #library
+* [PKP OJS](https://github.com/pkp/ojs) #library #journal #management #research
+* [PKP OMP](https://github.com/pkp/omp) #server #management #science #library
