@@ -21,6 +21,7 @@
 * [Expy-Kit](https://github.com/pKrime/Expy-Kit) #blender #character #rigs
 * [Shot-Manager-Guide](https://github.com/OtherRealms/Shot-Manager-Guide) #blender #shot @guide #rendering
 * [Unity Resolve AA Rendertarget On Command](https://github.com/sienaiwun/Unity_AAResolveOnCommand) #blender #render
+* [CAD Sketcher](https://github.com/hlorus/CAD_Sketcher) #blender #CAD #documentation
 
 #### Sketchup
 * [OpenCutList by L'Air du Bois](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension) #woodworking #cutlist #diagram
@@ -47,9 +48,12 @@
 * [Qfield documentation](https://www.transifex.com/opengisch/qfield-documentation/) #GIS #fieldwork #mobile
 * [OpenMRS](https://www.transifex.com/openmrs/OpenMRS/dashboard/) #health #care #developing_countries #healthcare #record #system
 
-
 ## Terminal
 * [sub](https://github.com/qrush/sub) #shell #bash #37signals
+
+## Digitization
+* [Bibliohack_installer](https://github.com/Bibliohack/bibliohack_installer) #installer #post-processing #imaging #capture #books
+* [Codex](https://github.com/d-a-l/codex) #wiki #books #documentation
 
 ## Arduino
 * [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
