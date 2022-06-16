@@ -53,6 +53,7 @@
 
 ## Digitization
 * [Bibliohack_installer](https://github.com/Bibliohack/bibliohack_installer) #installer #post-processing #imaging #capture #books
+* [Bibliohack stack](https://github.com/Bibliohack/bibliohack_stack) #stack #dependencies #books
 * [Codex](https://github.com/d-a-l/codex) #wiki #books #documentation
 
 ## Arduino
