@@ -7,6 +7,7 @@
 * [Keka](https://github.com/aonez/Keka) #archiver #compression #utility
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
 * [macOS customization role for Ansible](https://github.com/ayltai/ansible-macos-preferences) #preferences #ansible
+* [SwiftBar](https://github.com/swiftbar/SwiftBar) #menu #bar #plugin
 
 #### Translations
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) #menu #bar #mac #app
