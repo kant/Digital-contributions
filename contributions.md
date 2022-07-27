@@ -70,3 +70,4 @@
 * [PKP lib](https://github.com/pkp/pkp-lib) #webapp #library
 * [PKP OJS](https://github.com/pkp/ojs) #library #journal #management #research
 * [PKP OMP](https://github.com/pkp/omp) #server #management #science #library
+* [Allowed Uploads](https://github.com/ajnyga/allowedUploads) #OJS #OMP #file #management #translation
