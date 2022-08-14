@@ -71,3 +71,4 @@
 * [PKP OJS](https://github.com/pkp/ojs) #library #journal #management #research
 * [PKP OMP](https://github.com/pkp/omp) #server #management #science #library
 * [Allowed Uploads](https://github.com/ajnyga/allowedUploads) #OJS #OMP #file #management #translation
+* [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) #graph #neural #network #documentation
