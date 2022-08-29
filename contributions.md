@@ -29,11 +29,15 @@
 
 
 ## Plugins
-  #### Audio
+#### Audio
   * [openAV-ArtyFX](https://github.com/openAVproductions/openAV-ArtyFX)
-  #### Graphics
+#### Graphics
   * [rio-tiler](https://github.com/cogeotiff/rio-tiler) #rasterio #datasets
   * [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) #rasterio #datasets #GeoTIFF
+
+# Tutorial
+#### Machine Learning
+  * [Machine Learning Content](https://github.com/4GeeksAcademy/machine-learning-content) #machine_learning #documentation #academia
 
 # Translations
 
