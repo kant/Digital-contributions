@@ -28,19 +28,14 @@
 * [OpenCutList by L'Air du Bois](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension) #woodworking #cutlist #diagram
 
 
-## Plugins
+# Plugins
 #### Audio
   * [openAV-ArtyFX](https://github.com/openAVproductions/openAV-ArtyFX)
 #### Graphics
   * [rio-tiler](https://github.com/cogeotiff/rio-tiler) #rasterio #datasets
   * [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) #rasterio #datasets #GeoTIFF
 
-# Tutorial
-#### Machine Learning
-  * [Machine Learning Content](https://github.com/4GeeksAcademy/machine-learning-content) #machine_learning #documentation #academia
-
 # Translations
-
 #### Crowdin
 * [Excalidraw](https://crowdin.com/project/excalidraw/es-ES)
 * [AndroidAps](https://crowdin.com/project/androidaps/es-ES)
@@ -52,6 +47,8 @@
 #### Transifex
 * [Qfield documentation](https://www.transifex.com/opengisch/qfield-documentation/) #GIS #fieldwork #mobile
 * [OpenMRS](https://www.transifex.com/openmrs/OpenMRS/dashboard/) #health #care #developing_countries #healthcare #record #system
+
+# Miscellaneous
 
 ## Terminal
 * [sub](https://github.com/qrush/sub) #shell #bash #37signals
@@ -76,3 +73,10 @@
 * [PKP OMP](https://github.com/pkp/omp) #server #management #science #library
 * [Allowed Uploads](https://github.com/ajnyga/allowedUploads) #OJS #OMP #file #management #translation
 * [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) #graph #neural #network #documentation
+
+## Parser
+* [Maximo COBie Parser](https://github.com/IBM/MaximoCOBieParser) #parser #excel
+
+## Tutorial
+### Machine Learning
+  * [Machine Learning Content](https://github.com/4GeeksAcademy/machine-learning-content) #machine_learning #documentation #academia
