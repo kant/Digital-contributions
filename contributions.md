@@ -32,6 +32,7 @@
 # Plugins
 #### Audio
   * [openAV-ArtyFX](https://github.com/openAVproductions/openAV-ArtyFX)
+  * [AUv3Support](https://github.com/bradhowes/AUv3Support) #swift #documentation #auv3 #audio #plugin #architecture
 #### Graphics
   * [rio-tiler](https://github.com/cogeotiff/rio-tiler) #rasterio #datasets
   * [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) #rasterio #datasets #GeoTIFF
