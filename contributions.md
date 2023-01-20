@@ -55,6 +55,7 @@
 ## Terminal
 * [sub](https://github.com/qrush/sub) #shell #bash #37signals
 * [VPNubt](https://github.com/KingKeule/VPNubt) #vpn #tunnel #broadcast
+* [spot](https://github.com/rauchg/spot) #searcher #file
 
 ## Digitization
 * [Bibliohack_installer](https://github.com/Bibliohack/bibliohack_installer) #installer #post-processing #imaging #capture #books
