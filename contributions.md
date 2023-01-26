@@ -43,8 +43,12 @@
 * [AndroidAps](https://crowdin.com/project/androidaps/es-ES)
 * [AudioKit Synth One](https://crowdin.com/project/audiokit-synth-one/es-ES)
 * [Open Food Facts](https://crowdin.com/project/openfoodfacts/es-ES)
-* [iFixit](https://crowdin.com/project/ifixit)
-* [Electron](https://crowdin.com/project/electron)
+* [iFixit](https://crowdin.com/project/ifixit/es-ES)
+* [Electron](https://crowdin.com/project/electron/es-ES)
+* [Be my Eyes](https://crowdin.com/project/be-my-eyes-android/es-ES)
+* [FreeCad](https://crowdin.com/project/freecad/es-ES)
+* [Starship Prompt](https://crowdin.com/project/starship-prompt/es-ES)
+* [Lunacy](https://crowdin.com/project/lunacy/es-ES)
 
 #### Transifex
 * [Qfield documentation](https://www.transifex.com/opengisch/qfield-documentation/) #GIS #fieldwork #mobile
@@ -77,6 +81,7 @@
 * [PKP OMP](https://github.com/pkp/omp) #server #management #science #library
 * [Allowed Uploads](https://github.com/ajnyga/allowedUploads) #OJS #OMP #file #management #translation
 * [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) #graph #neural #network #documentation
+* [Awesome Software for Image Coloring](https://github.com/oskar-j/awesome-image-coloring) #documentation #awesomelist #deep_learning #python
 
 ## Parser
 * [Maximo COBie Parser](https://github.com/IBM/MaximoCOBieParser) #parser #excel
