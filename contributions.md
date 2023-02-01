@@ -46,7 +46,7 @@
 * [iFixit](https://crowdin.com/project/ifixit/es-ES)
 * [Electron](https://crowdin.com/project/electron/es-ES)
 * [Be my Eyes](https://crowdin.com/project/be-my-eyes-android/es-ES)
-* [FreeCad](https://crowdin.com/project/freecad/es-ES)
+* [FreeCAD](https://crowdin.com/project/freecad/es-ES)
 * [Starship Prompt](https://crowdin.com/project/starship-prompt/es-ES)
 * [Lunacy](https://crowdin.com/project/lunacy/es-ES)
 
