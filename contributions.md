@@ -88,6 +88,9 @@
 ## Parser
 * [Maximo COBie Parser](https://github.com/IBM/MaximoCOBieParser) #parser #excel
 
+## Music
+* [alles](https://github.com/bwhitman/alles) #synthesizer #mesh #documentation
+
 ## Tutorial
 ### Machine Learning
   * [Machine Learning Content](https://github.com/4GeeksAcademy/machine-learning-content) #machine_learning #documentation #academia
