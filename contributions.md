@@ -51,7 +51,7 @@
 * [Starship Prompt](https://crowdin.com/project/starship-prompt/es-ES)
 * [Lunacy](https://crowdin.com/project/lunacy/es-ES)
 * [GDevelop5](https://crowdin.com/project/gdevelop/es-ES)
-* [openhub-Android][https://crowdin.com/project/openhab-android/es-ES]
+* [openhub-Android](https://crowdin.com/project/openhab-android/es-ES)
 
 #### Transifex
 * [Qfield documentation](https://www.transifex.com/opengisch/qfield-documentation/) #GIS #fieldwork #mobile
