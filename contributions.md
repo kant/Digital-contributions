@@ -21,7 +21,7 @@
 * [Nikitron_tools](https://github.com/nortikin/nikitron_tools) #blender #2d #curves #3D
 * [MeasureIt_ARCH](https://github.com/kevancress/MeasureIt_ARCH) #architectural #blender #drawing
 * [Halo-Asset-Blender-Development-Toolset](https://github.com/General-101/Halo-Asset-Blender-Development-Toolset) #blender #halo #assets #exporter
-* [Expy-Kit](https://github.com/pKrime/Expy-Kit) #blender #character #rigs
+* [Expy-Kit](https://github.com/pKrime/Expy-Kit) #blender #character #rigs #cad
 * [Shot-Manager-Guide](https://github.com/OtherRealms/Shot-Manager-Guide) #blender #shot @guide #rendering
 * [Unity Resolve AA Rendertarget On Command](https://github.com/sienaiwun/Unity_AAResolveOnCommand) #blender #render
 * [CAD Sketcher](https://github.com/hlorus/CAD_Sketcher) #blender #CAD #documentation
