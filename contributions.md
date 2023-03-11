@@ -81,7 +81,7 @@
 * [PKP Docs](https://github.com/pkp/pkp-docs) #science #documentation #library #management
 * [PKP lib](https://github.com/pkp/pkp-lib) #webapp #library #management
 * [PKP OJS](https://github.com/pkp/ojs) #library #journal #management #research
-* [PKP OMP](https://github.com/pkp/omp) #server #management #science #library
+* [PKP OMP](https://github.com/pkp/omp) #server #management #science #library #research
 * [Allowed Uploads](https://github.com/ajnyga/allowedUploads) #OJS #OMP #file #management #translation
 * [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) #graph #neural #network #documentation
 * [Awesome Software for Image Coloring](https://github.com/oskar-j/awesome-image-coloring) #documentation #awesomelist #deep_learning #python
