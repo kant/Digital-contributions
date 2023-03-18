@@ -9,6 +9,7 @@
 * [macOS customization role for Ansible](https://github.com/ayltai/ansible-macos-preferences) #preferences #ansible
 * [SwiftBar](https://github.com/swiftbar/SwiftBar) #menu #bar #plugin
 * [CodeEdit](https://github.com/CodeEditApp/CodeEdit) #swift #documentation #code-editor
+* [Thor](https://github.com/gbammc/Thor) #shortcut #system #utility
 
 #### Translations
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) #menu #bar #mac #app
