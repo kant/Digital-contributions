@@ -57,6 +57,7 @@
 #### Transifex
 * [Qfield documentation](https://www.transifex.com/opengisch/qfield-documentation/) #GIS #fieldwork #mobile
 * [OpenMRS](https://www.transifex.com/openmrs/OpenMRS/dashboard/) #health #care #developing_countries #healthcare #record #system
+* [Web Scrobbler](https://www.transifex.com/web-scrobbler/teams/76120/es/) #last.fm #scrobbler
 
 # Miscellaneous
 
