@@ -19,7 +19,7 @@
 # 3D
 #### Blender
 * [Camera Projection Painter](https://github.com/BlenderHQ/camera_projection_painter) #blender #photoscan #photogrammetry
-* [Nikitron_tools](https://github.com/nortikin/nikitron_tools) #blender #2d #curves #3D
+* [Nikitron_tools](https://github.com/nortikin/nikitron_tools) #blender #2d #curves #3D #CAD
 * [MeasureIt_ARCH](https://github.com/kevancress/MeasureIt_ARCH) #architectural #blender #drawing
 * [Halo-Asset-Blender-Development-Toolset](https://github.com/General-101/Halo-Asset-Blender-Development-Toolset) #blender #halo #assets #exporter
 * [Expy-Kit](https://github.com/pKrime/Expy-Kit) #blender #character #rigs #cad
