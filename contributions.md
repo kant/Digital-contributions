@@ -8,7 +8,7 @@
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
 * [macOS customization role for Ansible](https://github.com/ayltai/ansible-macos-preferences) #preferences #ansible
 * [SwiftBar](https://github.com/swiftbar/SwiftBar) #menu #bar #plugin
-* [CodeEdit](https://github.com/CodeEditApp/CodeEdit) #swift #documentation #code-editor
+* [CodeEdit](https://github.com/CodeEditApp/CodeEdit) #swift #documentation #code-editor #coding
 * [Thor](https://github.com/gbammc/Thor) #shortcut #system #utility
 
 #### Translations
