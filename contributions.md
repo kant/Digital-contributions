@@ -10,6 +10,7 @@
 * [SwiftBar](https://github.com/swiftbar/SwiftBar) #menu #bar #plugin
 * [CodeEdit](https://github.com/CodeEditApp/CodeEdit) #swift #documentation #code-editor #coding
 * [Thor](https://github.com/gbammc/Thor) #shortcut #system #utility
+* [FlowNote](https://github.com/Yiiipu/FlowNote) #note-taking #menubar #documentation
 
 #### Translations
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) #menu #bar #mac #app
