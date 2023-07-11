@@ -108,3 +108,7 @@
 ## Tutorial
 ### Machine Learning
   * [Machine Learning Content](https://github.com/4GeeksAcademy/machine-learning-content) #machine_learning #documentation #academia
+
+### Web design
+  * [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/) #webdesign #tutorial 
+
