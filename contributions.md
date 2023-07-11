@@ -83,6 +83,9 @@
 ## eBooks
 * [The Magic Book Project](https://github.com/runemadsen/Magic-Book-Project) #ebook #production
 
+## Documentation
+* [nicedoc.io](https://github.com/IBM/nicedoc.io) #documentation #repositories #beautify
+
 ## Science
 * [Feast](https://github.com/cozygene/FEAST) #algorithm #microbial
 * [PKP UI Library](https://github.com/pkp/ui-library) #library #design
