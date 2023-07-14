@@ -1,18 +1,18 @@
 # Mac
 
 #### Mac stuff (apps, preferences, utilities _et alia_)
-
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) #utility #system #shortcut #automation
 * [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts): #utility #accesibility
 * [Keka](https://github.com/aonez/Keka) #archiver #compression #utility
-* [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
 * [macOS customization role for Ansible](https://github.com/ayltai/ansible-macos-preferences) #preferences #ansible
 * [SwiftBar](https://github.com/swiftbar/SwiftBar) #menu #bar #plugin
 * [CodeEdit](https://github.com/CodeEditApp/CodeEdit) #swift #documentation #code-editor #coding
 * [Thor](https://github.com/gbammc/Thor) #shortcut #system #utility
 * [FlowNote](https://github.com/Yiiipu/FlowNote) #note-taking #menubar #documentation
 * [Talus](https://github.com/juanbrujo/Talus) #bash #osx #download #automation #documentation
-
+#### Quicklook plugins
+* [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
+* [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) #quicklook #code #previewer
 #### Translations
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) #menu #bar #mac #app
 * [TRex](https://github.com/amebalabs/TRex) #text #capture #mac #app
