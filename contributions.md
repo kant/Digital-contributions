@@ -81,7 +81,7 @@
 * [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
 
 ## API
-* [hoppscotch](https://github.com/hoppscotch/hoppscotch) #API #development #ecosystem #documentation
+* [hoppscotch](https://github.com/hoppscotch/hoppscotch) #API #development #ecosystem #translation
 
 ## eBooks
 * [The Magic Book Project](https://github.com/runemadsen/Magic-Book-Project) #ebook #production
