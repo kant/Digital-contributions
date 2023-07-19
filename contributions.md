@@ -67,29 +67,29 @@
 
 # Miscellaneous
 
-## Terminal
+#### Terminal
 * [sub](https://github.com/qrush/sub) #shell #bash #37signals
 * [VPNubt](https://github.com/KingKeule/VPNubt) #vpn #tunnel #broadcast
 * [spot](https://github.com/rauchg/spot) #searcher #file
 
-## Digitization
+#### Digitization
 * [Bibliohack_installer](https://github.com/Bibliohack/bibliohack_installer) #installer #post-processing #imaging #capture #books
 * [Bibliohack stack](https://github.com/Bibliohack/bibliohack_stack) #stack #dependencies #books
 * [Codex](https://github.com/d-a-l/codex) #wiki #books #documentation
 
-## Arduino
+#### Arduino
 * [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
 
-## API
+#### API
 * [hoppscotch](https://github.com/hoppscotch/hoppscotch) #API #development #ecosystem #translation
 
-## eBooks
+#### eBooks
 * [The Magic Book Project](https://github.com/runemadsen/Magic-Book-Project) #ebook #production
 
-## Documentation
+#### Documentation
 * [nicedoc.io](https://github.com/IBM/nicedoc.io) #documentation #repositories #beautify
 
-## Science
+#### Science
 * [Feast](https://github.com/cozygene/FEAST) #algorithm #microbial
 * [PKP UI Library](https://github.com/pkp/ui-library) #library #design
 * [PKP Docs](https://github.com/pkp/pkp-docs) #science #documentation #library #management
@@ -104,15 +104,18 @@
 * [Moonrat](https://github.com/PubInv/moonrat) #science #incubator #documentation
 * [Microsoft LightGBM](https://github.com/microsoft/LightGBM) #machine_Learning #algorithm #documentation
 
-## Parser
+#### Parser
 * [Maximo COBie Parser](https://github.com/IBM/MaximoCOBieParser) #parser #excel
 
-## Music
+#### Music
 * [alles](https://github.com/bwhitman/alles) #synthesizer #mesh #documentation
 
 ## Tutorial
-### Machine Learning
-  * [Machine Learning Content](https://github.com/4GeeksAcademy/machine-learning-content) #machine_learning #documentation #academia
+#### Javascript
+* [Javascript arrays exercises tutorial](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial) #javascript #documentation #academia
 
-### Web design
-  * [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/) #webdesign #tutorial 
+#### Machine Learning
+* [Machine Learning Content](https://github.com/4GeeksAcademy/machine-learning-content) #machine_learning #documentation #academia
+
+#### Web design
+* [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/) #webdesign #tutorial 
