@@ -28,7 +28,7 @@
 * [Shot-Manager-Guide](https://github.com/OtherRealms/Shot-Manager-Guide) #blender #shot @guide #rendering
 * [Unity Resolve AA Rendertarget On Command](https://github.com/sienaiwun/Unity_AAResolveOnCommand) #blender #render
 * [CAD Sketcher](https://github.com/hlorus/CAD_Sketcher) #blender #CAD #documentation
-* [fSpy](https://github.com/stuffmatic/fSpy-Blender) #blender #camera-calibration 
+* [fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) #blender #camera-calibration 
 
 #### Sketchup
 * [OpenCutList by L'Air du Bois](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension) #woodworking #cutlist #diagram
@@ -36,6 +36,8 @@
 #### Unreal
 * [rokoko-studio-live-unreal-engine](https://github.com/Rokoko/rokoko-studio-live-unreal-engine) #unreal #editor #3d #documentation
 
+#### Electron app
+* [fSpy](https://github.com/stuffmatic/fSpy) #camera #calibration #stand-alone #app #electron
 
 # Plugins
 #### Audio
