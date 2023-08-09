@@ -29,7 +29,8 @@
 * [Shot-Manager-Guide](https://github.com/OtherRealms/Shot-Manager-Guide) #blender #shot @guide #rendering
 * [Unity Resolve AA Rendertarget On Command](https://github.com/sienaiwun/Unity_AAResolveOnCommand) #blender #render
 * [CAD Sketcher](https://github.com/hlorus/CAD_Sketcher) #blender #CAD #documentation
-* [fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) #blender #camera-calibration 
+* [fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) #blender #camera-calibration
+* [BGForce](https://github.com/bgempire/bgforce) #blender #game #boilerplate #documentation
 
 #### Sketchup
 * [OpenCutList by L'Air du Bois](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension) #woodworking #cutlist #diagram
