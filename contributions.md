@@ -116,6 +116,7 @@
 #### Music
 * [alles](https://github.com/bwhitman/alles) #synthesizer #mesh #documentation
 * [Chataigne](https://github.com/benkuper/Chataigne) #midi #installation #art #documentation
+* [musicindex](https://github.com/mikeln/musicindex) #forscore #books #documentation
 
 #### Docker
 * [domino-container](https://github.com/HCL-TECH-SOFTWARE/domino-container) #docker #script #documentation
