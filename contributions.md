@@ -121,6 +121,9 @@
 #### Docker
 * [domino-container](https://github.com/HCL-TECH-SOFTWARE/domino-container) #docker #script #documentation
 
+#### AWS
+* [Stability-HPC](https://github.com/Stability-AI/stability-hpc) #amazon #infrastructure #cluster
+
 ## Tutorial
 #### Javascript
 * [Javascript arrays exercises tutorial](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial) #javascript #documentation #academia
