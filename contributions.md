@@ -32,6 +32,9 @@
 * [fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) #blender #camera-calibration
 * [BGForce](https://github.com/bgempire/bgforce) #blender #game #boilerplate #documentation
 
+#### OpenScad
+* [threedeethings](https://github.com/spikespaz/threedeethings) #openSCAD #documentation
+
 #### Sketchup
 * [OpenCutList by L'Air du Bois](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension) #woodworking #cutlist #diagram
 
