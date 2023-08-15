@@ -89,7 +89,7 @@
 * [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
 
 #### Game
-* [old-new-world](https://github.com/bgempire/old-new-world) #3D #blender 
+* [old-new-world](https://github.com/bgempire/old-new-world) #3D #blender #translation
 
 #### API
 * [hoppscotch](https://github.com/hoppscotch/hoppscotch) #API #development #ecosystem #translation
