@@ -74,7 +74,6 @@
 * [Web Scrobbler](https://www.transifex.com/web-scrobbler/teams/76120/es/) #last.fm #scrobbler
 
 # Miscellaneous
-
 #### Terminal
 * [sub](https://github.com/qrush/sub) #shell #bash #37signals
 * [VPNubt](https://github.com/KingKeule/VPNubt) #vpn #tunnel #broadcast
@@ -129,6 +128,9 @@
 
 #### AWS
 * [Stability-HPC](https://github.com/Stability-AI/stability-hpc) #amazon #infrastructure #cluster
+
+#### Library management
+* [ATC Booktique (Library Management System)](https://github.com/irahulcse/ATC-Booktique)
 
 ## Tutorial
 #### Javascript
