@@ -1,4 +1,4 @@
-# Mac
+## Mac
 
 #### Mac stuff (apps, preferences, utilities _et alia_)
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) #utility #system #shortcut #automation
@@ -19,7 +19,7 @@
 * [TRex](https://github.com/amebalabs/TRex) #text #capture #mac #app
 * [alt-tab-macros](https://poeditor.com/projects/) #mac #app
 
-# 3D
+## 3D
 #### Blender
 * [Camera Projection Painter](https://github.com/BlenderHQ/camera_projection_painter) #blender #photoscan #photogrammetry
 * [Nikitron_tools](https://github.com/nortikin/nikitron_tools) #blender #2d #curves #3D #CAD
@@ -44,7 +44,7 @@
 #### Electron app
 * [fSpy](https://github.com/stuffmatic/fSpy) #camera #calibration #stand-alone #app #electron
 
-# Plugins
+## Plugins
 #### Audio
   * [openAV-ArtyFX](https://github.com/openAVproductions/openAV-ArtyFX) #auv3 #audio
   * [AUv3Support](https://github.com/bradhowes/AUv3Support) #swift #documentation #auv3 #audio #plugin #architecture
@@ -52,7 +52,7 @@
   * [rio-tiler](https://github.com/cogeotiff/rio-tiler) #rasterio #datasets
   * [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) #rasterio #datasets #GeoTIFF
 
-# Translations
+## Translations
 #### Crowdin
 * [Excalidraw](https://crowdin.com/project/excalidraw/es-ES)
 * [AndroidAps](https://crowdin.com/project/androidaps/es-ES)
@@ -73,7 +73,7 @@
 * [OpenMRS](https://www.transifex.com/openmrs/OpenMRS/dashboard/) #health #care #developing_countries #healthcare #record #system
 * [Web Scrobbler](https://www.transifex.com/web-scrobbler/teams/76120/es/) #last.fm #scrobbler
 
-# Miscellaneous
+## Miscellaneous
 #### Terminal
 * [sub](https://github.com/qrush/sub) #shell #bash #37signals
 * [VPNubt](https://github.com/KingKeule/VPNubt) #vpn #tunnel #broadcast
