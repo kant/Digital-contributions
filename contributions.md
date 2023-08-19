@@ -11,6 +11,7 @@
 * [FlowNote](https://github.com/Yiiipu/FlowNote) #note-taking #menubar #documentation
 * [Talus](https://github.com/juanbrujo/Talus) #bash #osx #download #automation #documentation
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) #monitor #display #brightness #documentation
+* [Latest](https://github.com/mangerlahn/Latest) #updater #macosx #system #utility #installer
 #### Quicklook plugins
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
 * [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) #quicklook #code #previewer
