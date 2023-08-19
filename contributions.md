@@ -11,7 +11,8 @@
 * [FlowNote](https://github.com/Yiiipu/FlowNote) #note-taking #menubar #documentation
 * [Talus](https://github.com/juanbrujo/Talus) #bash #osx #download #automation #documentation
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) #monitor #display #brightness #documentation
-* [Latest](https://github.com/mangerlahn/Latest) #updater #macosx #system #utility #installer
+* * [Latest](https://github.com/mangerlahn/Latest) #updater #macosx #system #utility #installer
+
 #### Quicklook plugins
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
 * [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) #quicklook #code #previewer
@@ -68,6 +69,9 @@
 * [GDevelop5](https://crowdin.com/project/gdevelop/es-ES)
 * [openhub-Android](https://crowdin.com/project/openhab-android/es-ES)
 * [LinearMouse](https://crowdin.com/project/linearmouse/es-ES)
+
+  #### Weblate
+* [Latest](https://github.com/mangerlahn/Latest) #updater #macosx #system #utility #installer
 
 #### Transifex
 * [Qfield documentation](https://www.transifex.com/opengisch/qfield-documentation/) #GIS #fieldwork #mobile
