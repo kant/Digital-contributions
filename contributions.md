@@ -56,22 +56,22 @@
 
 ## Translations
 #### Crowdin
-* [Excalidraw](https://crowdin.com/project/excalidraw/es-ES)
-* [AndroidAps](https://crowdin.com/project/androidaps/es-ES)
-* [AudioKit Synth One](https://crowdin.com/project/audiokit-synth-one/es-ES)
-* [Open Food Facts](https://crowdin.com/project/openfoodfacts/es-ES)
-* [iFixit](https://crowdin.com/project/ifixit/es-ES)
-* [Electron](https://crowdin.com/project/electron/es-ES)
-* [Be my Eyes](https://crowdin.com/project/be-my-eyes-android/es-ES)
-* [FreeCAD](https://crowdin.com/project/freecad/es-ES)
-* [Starship Prompt](https://crowdin.com/project/starship-prompt/es-ES)
-* [Lunacy](https://crowdin.com/project/lunacy/es-ES)
-* [GDevelop5](https://crowdin.com/project/gdevelop/es-ES)
-* [openhub-Android](https://crowdin.com/project/openhab-android/es-ES)
-* [LinearMouse](https://crowdin.com/project/linearmouse/es-ES)
+ * [Excalidraw](https://crowdin.com/project/excalidraw/es-ES)
+ * [AndroidAps](https://crowdin.com/project/androidaps/es-ES)
+ * [AudioKit Synth One](https://crowdin.com/project/audiokit-synth-one/es-ES)
+ * [Open Food Facts](https://crowdin.com/project/openfoodfacts/es-ES)
+ * [iFixit](https://crowdin.com/project/ifixit/es-ES)
+ * [Electron](https://crowdin.com/project/electron/es-ES)
+ * [Be my Eyes](https://crowdin.com/project/be-my-eyes-android/es-ES)
+ * [FreeCAD](https://crowdin.com/project/freecad/es-ES)
+ * [Starship Prompt](https://crowdin.com/project/starship-prompt/es-ES)
+ * [Lunacy](https://crowdin.com/project/lunacy/es-ES)
+ * [GDevelop5](https://crowdin.com/project/gdevelop/es-ES)
+ * [openhub-Android](https://crowdin.com/project/openhab-android/es-ES)
+ * [LinearMouse](https://crowdin.com/project/linearmouse/es-ES)
 
   #### Weblate
-* [Latest](https://github.com/mangerlahn/Latest) #updater #macosx #system #utility #installer
+ * [Latest](https://github.com/mangerlahn/Latest) #updater #macosx #system #utility #installer
 
 #### Transifex
 * [Qfield documentation](https://www.transifex.com/opengisch/qfield-documentation/) #GIS #fieldwork #mobile
@@ -100,6 +100,7 @@
 
 #### eBooks
 * [The Magic Book Project](https://github.com/runemadsen/Magic-Book-Project) #ebook #production
+* [thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders) #shaders #graphics #gisl
 
 #### Documentation
 * [nicedoc.io](https://github.com/IBM/nicedoc.io) #documentation #repositories #beautify
