@@ -108,6 +108,7 @@
 
 #### Science
 * [Feast](https://github.com/cozygene/FEAST) #algorithm #microbial
+* [General Purpose Alarm Device v2.0](https://github.com/PubInv/general-purpose-alarm-device) #alarm #device
 * [PKP UI Library](https://github.com/pkp/ui-library) #library #design
 * [PKP Docs](https://github.com/pkp/pkp-docs) #science #documentation #library #management
 * [PKP lib](https://github.com/pkp/pkp-lib) #webapp #library #management
