@@ -125,6 +125,7 @@
 
 #### Parser
 * [Maximo COBie Parser](https://github.com/IBM/MaximoCOBieParser) #parser #excel
+* [tron](https://github.com/halo/tron) #monad #documentation
 
 #### Music
 * [alles](https://github.com/bwhitman/alles) #synthesizer #mesh #documentation
