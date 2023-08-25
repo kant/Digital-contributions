@@ -55,6 +55,9 @@
   * [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) #rasterio #datasets #GeoTIFF
 
 ## Translations
+#### Forum
+ * [Condor Club](https://www.condor.club/) #glider #simulation #game
+   
 #### Crowdin
  * [Excalidraw](https://crowdin.com/project/excalidraw/es-ES)
  * [AndroidAps](https://crowdin.com/project/androidaps/es-ES)
