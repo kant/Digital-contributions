@@ -33,6 +33,7 @@
 * [CAD Sketcher](https://github.com/hlorus/CAD_Sketcher) #blender #CAD #documentation
 * [fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) #blender #camera-calibration
 * [BGForce](https://github.com/bgempire/bgforce) #blender #game #boilerplate #documentation
+* [GoB](https://github.com/JoseConseco/GoB) #Zbrush2blender #interface
 
 #### OpenScad
 * [threedeethings](https://github.com/spikespaz/threedeethings) #openSCAD #documentation
