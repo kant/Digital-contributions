@@ -166,6 +166,7 @@
 #### Machine Learning
 * [Machine Learning Content](https://github.com/4GeeksAcademy/machine-learning-content) #machine_learning #documentation #academia
 * [Grobid](https://github.com/kermitt2/grobid) #machine_learning #documentation #academia #data
+* [IBM Taxinomitis](https://github.com/IBM/taxinomitis) #machine_learning #kids #documentation
 
 #### Web design
 * [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/) #webdesign #tutorial 
