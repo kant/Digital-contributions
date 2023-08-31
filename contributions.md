@@ -161,7 +161,10 @@
 * [liebling](https://github.com/eddiesigner/liebling) #ghost #theme #blog
 
 #### Web-app
-* [Farmbot-Web-App](https://github.com/FarmBot/Farmbot-Web-App) #farm #ecology #web-app   
+* [Farmbot-Web-App](https://github.com/FarmBot/Farmbot-Web-App) #farm #ecology #web-app
+
+#### Machine learning
+* [Apple Turi Create](https://github.com/apple/turicreate) #machine-learning #python #documentation
 
 ## Tutorial
 #### Javascript
