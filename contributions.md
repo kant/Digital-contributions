@@ -17,6 +17,7 @@
 #### Quicklook plugins
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
 * [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) #quicklook #code #previewer
+  
 #### Translations
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) #menu #bar #mac #app
 * [TRex](https://github.com/amebalabs/TRex) #text #capture #mac #app
@@ -52,6 +53,7 @@
 #### Audio
   * [openAV-ArtyFX](https://github.com/openAVproductions/openAV-ArtyFX) #auv3 #audio
   * [AUv3Support](https://github.com/bradhowes/AUv3Support) #swift #documentation #auv3 #audio #plugin #architecture
+    
 #### Graphics
   * [rio-tiler](https://github.com/cogeotiff/rio-tiler) #rasterio #datasets
   * [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) #rasterio #datasets #GeoTIFF
@@ -67,7 +69,7 @@
  * [Open Food Facts](https://crowdin.com/project/openfoodfacts/es-ES)
  * [iFixit](https://crowdin.com/project/ifixit/es-ES)
  * [Electron](https://crowdin.com/project/electron/es-ES)
- * [Be my Eyes](https://crowdin.com/project/be-my-eyes-android/es-ES)
+ * [Be My Eyes, Be My Eyes iOS, Be My Eyes Server](https://crowdin.com/project/be-my-eyes-android/es-ES)
  * [FreeCAD](https://crowdin.com/project/freecad/es-ES)
  * [Starship Prompt](https://crowdin.com/project/starship-prompt/es-ES)
  * [Lunacy](https://crowdin.com/project/lunacy/es-ES)
@@ -166,6 +168,9 @@
 #### Machine learning
 * [Apple Turi Create](https://github.com/apple/turicreate) #machine-learning #python #documentation
 
+#### Data science
+* [dataflow-project-events](https://github.com/breatheco-de/dataflow-project-events) #data #science #pandas
+  
 ## Tutorial
 #### Javascript
 * [Javascript arrays exercises tutorial](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial) #javascript #documentation #academia
