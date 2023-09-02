@@ -24,16 +24,16 @@
 
 ## 3D
 #### Blender
-* [Camera Projection Painter](https://github.com/BlenderHQ/camera_projection_painter) #blender #photoscan #photogrammetry
-* [Nikitron_tools](https://github.com/nortikin/nikitron_tools) #blender #2d #curves #3D #CAD
-* [MeasureIt_ARCH](https://github.com/kevancress/MeasureIt_ARCH) #architectural #blender #drawing
+* [Camera Projection Painter](https://github.com/BlenderHQ/camera_projection_painter) #photoscan #photogrammetry
+* [Nikitron_tools](https://github.com/nortikin/nikitron_tools) #2d #curves #3D #CAD
+* [MeasureIt_ARCH](https://github.com/kevancress/MeasureIt_ARCH) #architectural #drawing
 * [Halo-Asset-Blender-Development-Toolset](https://github.com/General-101/Halo-Asset-Blender-Development-Toolset) #blender #halo #assets #exporter
 * [Expy-Kit](https://github.com/pKrime/Expy-Kit) #blender #character #rigs #cad
 * [Shot-Manager-Guide](https://github.com/OtherRealms/Shot-Manager-Guide) #blender #shot @guide #rendering
 * [Unity Resolve AA Rendertarget On Command](https://github.com/sienaiwun/Unity_AAResolveOnCommand) #blender #render
 * [CAD Sketcher](https://github.com/hlorus/CAD_Sketcher) #blender #CAD #documentation
-* [fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) #blender #camera-calibration
-* [BGForce](https://github.com/bgempire/bgforce) #blender #game #boilerplate #documentation
+* [fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) #camera-calibration
+* [BGForce](https://github.com/bgempire/bgforce) #game #boilerplate #documentation
 * [GoB](https://github.com/JoseConseco/GoB) #Zbrush2blender #interface
 
 #### OpenScad
