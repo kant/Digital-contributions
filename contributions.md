@@ -48,6 +48,7 @@
 
 #### Electron app
 * [fSpy](https://github.com/stuffmatic/fSpy) #camera #calibration #stand-alone #app #electron
+* [Electron-db](https://github.com/alexiusacademia/electron-db) #database #json
 
 ## Plugins
 #### Audio
