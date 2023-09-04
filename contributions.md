@@ -46,10 +46,6 @@
 #### Unreal
 * [rokoko-studio-live-unreal-engine](https://github.com/Rokoko/rokoko-studio-live-unreal-engine) #unreal #editor #3d #documentation
 
-#### Electron app
-* [fSpy](https://github.com/stuffmatic/fSpy) #camera #calibration #stand-alone #app #electron
-* [Electron-db](https://github.com/alexiusacademia/electron-db) #database #json
-
 ## Plugins
 #### Audio
   * [openAV-ArtyFX](https://github.com/openAVproductions/openAV-ArtyFX) #auv3 #audio
@@ -96,6 +92,10 @@
 * [Bibliohack_installer](https://github.com/Bibliohack/bibliohack_installer) #installer #post-processing #imaging #capture #books
 * [Bibliohack stack](https://github.com/Bibliohack/bibliohack_stack) #stack #dependencies #books
 * [Codex](https://github.com/d-a-l/codex) #wiki #books #documentation
+
+#### Electron app
+* [fSpy](https://github.com/stuffmatic/fSpy) #camera #calibration #stand-alone #app #electron
+* [Electron-db](https://github.com/alexiusacademia/electron-db) #database #json
 
 #### Arduino
 * [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
@@ -171,6 +171,9 @@
 
 #### Data science
 * [dataflow-project-events](https://github.com/breatheco-de/dataflow-project-events) #data #science #pandas
+
+#### Javascript
+* [GoogleProjectZero Domato](https://github.com/googleprojectzero/domato) #dom #fuzzing #security
   
 ## Tutorial
 #### Javascript
