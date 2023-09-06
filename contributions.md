@@ -74,7 +74,7 @@
  * [openhub-Android](https://crowdin.com/project/openhab-android/es-ES)
  * [LinearMouse](https://crowdin.com/project/linearmouse/es-ES)
 
-  #### Weblate
+#### Weblate
  * [Latest](https://github.com/mangerlahn/Latest) #updater #macosx #system #utility #installer
 
 #### Transifex
@@ -96,6 +96,7 @@
 #### Electron app
 * [fSpy](https://github.com/stuffmatic/fSpy) #camera #calibration #stand-alone #app #electron
 * [Electron-db](https://github.com/alexiusacademia/electron-db) #database #json
+* [electron-wix-msi](https://github.com/electron-userland/electron-wix-msi) #electron #installer #windows
 
 #### Arduino
 * [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
