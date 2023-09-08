@@ -150,10 +150,7 @@
 * [Stability-HPC](https://github.com/Stability-AI/stability-hpc) #amazon #infrastructure #cluster
 
 #### Library management
-* [ATC Booktique (Library Management System)](https://github.com/irahulcse/ATC-Booktique)
-
-#### Processing Javascript framework
-* [p5.js](https://github.com/processing/p5.js) #processing #javascript
+* [ATC Booktique (Library Management System)](https://github.com/irahulcse/ATC-Booktique) #management #library
 
 #### Android app
 * [Shopify](https://github.com/niiischall/Shopify) #android #react #native #e-commerce
@@ -174,8 +171,12 @@
 #### Data science
 * [dataflow-project-events](https://github.com/breatheco-de/dataflow-project-events) #data #science #pandas
 
+#### React Native
+* [react-native-sqlite-2](https://github.com/craftzdog/react-native-sqlite-2) #react-native #sqlite3 #plugin
+  
 #### Javascript
 * [GoogleProjectZero Domato](https://github.com/googleprojectzero/domato) #dom #fuzzing #security
+* [p5.js](https://github.com/processing/p5.js) #processing #framework #javascript
   
 ## Tutorial
 #### Javascript
