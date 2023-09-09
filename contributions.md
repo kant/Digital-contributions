@@ -177,6 +177,9 @@
 #### Javascript
 * [GoogleProjectZero Domato](https://github.com/googleprojectzero/domato) #dom #fuzzing #security
 * [p5.js](https://github.com/processing/p5.js) #processing #framework #javascript
+
+#### Jquery
+* [Datatables](https://github.com/DataTables/DataTables) #tables #jquery
   
 ## Tutorial
 #### Javascript
