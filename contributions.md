@@ -161,6 +161,7 @@
 
 #### Webdesign
 * [liebling](https://github.com/eddiesigner/liebling) #ghost #theme #blog
+* [Bootstrap Tumblr Theme](https://github.com/mikejarema/bootstrap-tumblr-theme) #bootstrap #tumblr
 
 #### Web-app
 * [Farmbot-Web-App](https://github.com/FarmBot/Farmbot-Web-App) #farm #ecology #web-app
