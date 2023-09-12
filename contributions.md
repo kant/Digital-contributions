@@ -122,6 +122,7 @@
 * [General Purpose Alarm Device v2.0](https://github.com/PubInv/general-purpose-alarm-device) #alarm #device
 * [PKP UI Library](https://github.com/pkp/ui-library) #library #design
 * [PKP Docs](https://github.com/pkp/pkp-docs) #science #documentation #library #management
+* [PKP Docker-OJS](https://github.com/pkp/docker-ojs) #container #docker
 * [PKP lib](https://github.com/pkp/pkp-lib) #webapp #library #management
 * [PKP OJS](https://github.com/pkp/ojs) #library #journal #management #research
 * [PKP Lucene](https://github.com/pkp/lucene) #Solr #plugin #ojs #research
