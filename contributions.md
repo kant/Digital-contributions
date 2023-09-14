@@ -40,6 +40,9 @@
 #### OpenScad
 * [threedeethings](https://github.com/spikespaz/threedeethings) #openSCAD #documentation
 
+#### KiCad
+* [PublicInvention_KiCad_Library](https://github.com/ForrestErickson/PublicInvention_KiCad_Library) #kicad #library
+
 #### Sketchup
 * [OpenCutList by L'Air du Bois](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension) #woodworking #cutlist #diagram
 
