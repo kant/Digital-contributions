@@ -12,7 +12,8 @@
 * [Talus](https://github.com/juanbrujo/Talus) #bash #osx #download #automation #documentation
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) #monitor #display #brightness #documentation
 * [Latest](https://github.com/mangerlahn/Latest) #updater #macosx #system #utility #installer
-* [Web Toolbox](https://github.com/amwebexpert/etoolbox) #webdeveloping #toolbox #utilities 
+* [Web Toolbox](https://github.com/amwebexpert/etoolbox) #webdeveloping #toolbox #utilities
+* [Motrix](https://github.com/agalwood/Motrix) #downloader #manager 
 
 #### Quicklook plugins
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
