@@ -142,6 +142,7 @@
 #### Parser
 * [Maximo COBie Parser](https://github.com/IBM/MaximoCOBieParser) #parser #excel
 * [tron](https://github.com/halo/tron) #monad #documentation
+* [open_calais](https://github.com/documentcloud/open_calais) #ruby #gem #json #parser
 
 #### Music
 * [alles](https://github.com/bwhitman/alles) #synthesizer #mesh #documentation
