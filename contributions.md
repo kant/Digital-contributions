@@ -46,7 +46,8 @@
 
 #### Sketchup
 * [OpenCutList by L'Air du Bois](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension) #woodworking #cutlist #diagram
-* [Wikihouse-pluguin](https://github.com/SketchUp/wikihouse-plugin) #sustainable #house #modelling 
+* [Wikihouse-pluguin](https://github.com/SketchUp/wikihouse-plugin) #sustainable #house #modelling
+* [SketchUp Shapes Extension](https://github.com/SketchUp/sketchup-shapes) #sketchup #shapes #parametric
 
 #### Unreal
 * [rokoko-studio-live-unreal-engine](https://github.com/Rokoko/rokoko-studio-live-unreal-engine) #unreal #editor #3d #documentation
