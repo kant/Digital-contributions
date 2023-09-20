@@ -151,6 +151,9 @@
 * [musicindex](https://github.com/mikeln/musicindex) #forscore #books #documentation
 * [AbletonOSC](https://github.com/genekogan/ofxAbletonLive) #openFramework #ableton #ofx #add-on 
 
+#### Wordpress plugin
+* [Anthologize](https://github.com/chnm/anthologize/) #wordpress #translation
+
 #### Docker
 * [domino-container](https://github.com/HCL-TECH-SOFTWARE/domino-container) #docker #script #documentation
 
