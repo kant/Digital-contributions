@@ -118,6 +118,9 @@
 * [The Magic Book Project](https://github.com/runemadsen/Magic-Book-Project) #ebook #production
 * [thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders) #shaders #graphics #gisl
 
+#### Maps
+* [OpenMRS Atlas](https://github.com/openmrs/openmrs-contrib-atlas) #laravel #google-maps #server
+
 #### Documentation
 * [nicedoc.io](https://github.com/IBM/nicedoc.io) #documentation #repositories #beautify
 * [roadmap.sh](https://github.com/kamranahmedse/developer-roadmap) #API #documentation
