@@ -211,4 +211,7 @@
 * [IBM Taxinomitis](https://github.com/IBM/taxinomitis) #machine_learning #kids #documentation
 
 #### Web design
-* [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/) #webdesign #tutorial 
+* [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/) #webdesign #tutorial
+
+#### Ruby on Rails
+* [Aprende a Programar con Ruby](https://github.com/rubysur/aprende.a.programar) #ruby #tutorial
