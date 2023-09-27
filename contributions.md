@@ -37,6 +37,7 @@
 * [fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) #camera-calibration
 * [BGForce](https://github.com/bgempire/bgforce) #game #boilerplate #documentation
 * [GoB](https://github.com/JoseConseco/GoB) #Zbrush2blender #interface
+* [OpenCollada](https://github.com/KhronosGroup/OpenCOLLADA) #maya #plugin #documentation
 
 #### OpenScad
 * [threedeethings](https://github.com/spikespaz/threedeethings) #openSCAD #documentation
