@@ -15,6 +15,7 @@
 * [Web Toolbox](https://github.com/amwebexpert/etoolbox) #webdeveloping #toolbox #utilities
 * [Motrix](https://github.com/agalwood/Motrix) #downloader #manager
 * [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) #battery #menubar
+* [Google Santa](https://github.com/google/santa) #monitor #security #system
 
 #### Quicklook plugins
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
