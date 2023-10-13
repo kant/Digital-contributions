@@ -138,6 +138,7 @@
 * [PKP lib](https://github.com/pkp/pkp-lib) #webapp #library #management
 * [PKP OJS](https://github.com/pkp/ojs) #library #journal #management #research
 * [PKP Lucene](https://github.com/pkp/lucene) #Solr #plugin #ojs #research
+* [PKP-sitesearch](https://github.com/ulsdevteam/pkp-sitesearch/) #journal #searcher 
 * [PKP OMP](https://github.com/pkp/omp) #server #management #science #library #research
 * [Allowed Uploads](https://github.com/ajnyga/allowedUploads) #OJS #OMP #file #management #translation
 * [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) #graph #neural #network #documentation
