@@ -147,6 +147,7 @@
 * [Moonrat](https://github.com/PubInv/moonrat) #science #incubator #documentation
 * [Microsoft LightGBM](https://github.com/microsoft/LightGBM) #machine_Learning #algorithm #documentation
 * [TemaTres Visual Vocabulary](https://github.com/tematres/visualVocabulary) #webapp #vocabulary
+* [CellphoneDB](https://github.com/ventolab/CellphoneDB) #cell #database #search #transcriptomics
 
 #### Parser
 * [Maximo COBie Parser](https://github.com/IBM/MaximoCOBieParser) #parser #excel
