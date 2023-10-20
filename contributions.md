@@ -107,6 +107,7 @@
 * [fSpy](https://github.com/stuffmatic/fSpy) #camera #calibration #stand-alone #app #electron
 * [Electron-db](https://github.com/alexiusacademia/electron-db) #database #json
 * [electron-wix-msi](https://github.com/electron-userland/electron-wix-msi) #electron #installer #windows
+* [Video-Hub-App](https://github.com/whyboris/Video-Hub-App) #video #browser #searcher
 
 #### Arduino
 * [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
