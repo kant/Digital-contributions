@@ -176,6 +176,7 @@
 
 #### Android app
 * [Shopify](https://github.com/niiischall/Shopify) #android #react #native #e-commerce
+* [CHTtoolkit/cht-core](https://github.com/medic/cht-core) #android #health #treatment #database
 
 #### API
 * [osf-pigeon](https://github.com/CenterForOpenScience/osf-pigeon) #API #internet_archive #script
