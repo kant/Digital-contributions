@@ -84,6 +84,7 @@
  * [openhub-Android](https://crowdin.com/project/openhab-android/es-ES)
  * [LinearMouse](https://crowdin.com/project/linearmouse/es-ES)
  * [Microsoft MakeCode](https://crowdin.com/project/makecode/es-ES)
+ * [Rallly](https://crowdin.com/project/rallly/es-ES)
 
 #### Weblate
  * [Latest](https://github.com/mangerlahn/Latest) #updater #macosx #system #utility #installer
