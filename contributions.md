@@ -89,6 +89,9 @@
 #### Weblate
  * [Latest](https://github.com/mangerlahn/Latest) #updater #macosx #system #utility #installer
 
+#### Crowdtranslate
+ * [replacicon](https://www.crowdtranslate.io/contribute/replacicon/lang/es-ES) 
+
 #### Transifex
 * [Qfield documentation](https://www.transifex.com/opengisch/qfield-documentation/) #GIS #fieldwork #mobile
 * [OpenMRS](https://www.transifex.com/openmrs/OpenMRS/dashboard/) #health #care #developing_countries #healthcare #record #system
