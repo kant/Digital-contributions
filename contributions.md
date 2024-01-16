@@ -17,6 +17,7 @@
 * [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) #battery #menubar
 * [Google Santa](https://github.com/google/santa) #monitor #security #system
 * [localsend](https://github.com/localsend/localsend) #network #transfer #translation
+* [Beaver-Notes](https://github.com/Daniele-rolli/Beaver-Notes/) #documentation #markdown
 
 #### Quicklook plugins
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
