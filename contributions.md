@@ -26,7 +26,7 @@
 #### Translations
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) #menu #bar #mac #app
 * [TRex](https://github.com/amebalabs/TRex) #text #capture #mac #app
-* [alt-tab-macros](https://poeditor.com/projects/) #mac #app
+* [alt-tab-macos](https://poeditor.com/projects/shared?id=316051) #mac #app
 
 ## 3D
 #### Blender
