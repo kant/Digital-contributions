@@ -159,6 +159,7 @@
 * [CellphoneDB](https://github.com/ventolab/CellphoneDB) #cell #database #search #transcriptomics
 * [dittoSeq](https://github.com/dtm2451/dittoSeq) #R #visualization #color-blind #accesibility
 * [Datos](https://github.com/cienciadedatos/datos/tree/main) #R #translation #data-science
+* [osf-cas](https://github.com/CenterForOpenScience/osf-cas) #oauth2 #authentication #security #open-science
 
 #### Parser
 * [Maximo COBie Parser](https://github.com/IBM/MaximoCOBieParser) #parser #excel
