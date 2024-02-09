@@ -137,6 +137,7 @@
 * [nicedoc.io](https://github.com/IBM/nicedoc.io) #documentation #repositories #beautify
 * [roadmap.sh](https://github.com/kamranahmedse/developer-roadmap) #API #documentation
 * [devhub-app-web](https://github.com/bcgov/devhub-app-web) #documentation #webapp #government
+* [Dwarves Playbook](https://github.com/dwarvesf/playbook) #documentation #procedure #checklist
 
 #### Science
 * [Feast](https://github.com/cozygene/FEAST) #algorithm #microbial
