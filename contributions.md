@@ -219,6 +219,9 @@
 
 #### Jquery
 * [Datatables](https://github.com/DataTables/DataTables) #tables #jquery
+
+#### Chrome extension
+* [Vimium-C](https://github.com/gdh1995/vimium-c) #chrome #extension #shortcut #browser #accesibility  
   
 ## Tutorial
 #### Javascript
