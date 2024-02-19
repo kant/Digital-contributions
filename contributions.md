@@ -3,6 +3,7 @@
 #### Mac stuff (apps, preferences, utilities _et alia_)
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) #utility #system #shortcut #automation
 * [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts): #utility #accesibility
+* [MASShortcut](https://github.com/cocoabits/MASShortcut) #framework #accesibility #API
 * [Keka](https://github.com/aonez/Keka) #archiver #compression #utility
 * [macOS customization role for Ansible](https://github.com/ayltai/ansible-macos-preferences) #preferences #ansible
 * [SwiftBar](https://github.com/swiftbar/SwiftBar) #menu #bar #plugin
