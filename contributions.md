@@ -1,6 +1,6 @@
 ## Mac
 
-#### Mac stuff (apps, preferences, utilities _et alia_)
+#### Mac & iOS stuff (apps, preferences, utilities _et alia_)
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) #utility #system #shortcut #automation
 * [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts): #utility #accesibility
 * [MASShortcut](https://github.com/cocoabits/MASShortcut) #framework #accesibility #API
@@ -19,6 +19,8 @@
 * [Google Santa](https://github.com/google/santa) #monitor #security #system
 * [localsend](https://github.com/localsend/localsend) #network #transfer #translation
 * [Beaver-Notes](https://github.com/Daniele-rolli/Beaver-Notes/) #documentation #markdown
+* [Realtime Thread Safety Watchdog](https://github.com/TheAmazingAudioEngine/RealtimeWatchdog) #iOS #documentation #audio #library
+
 
 #### Quicklook plugins
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
