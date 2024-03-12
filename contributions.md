@@ -90,6 +90,7 @@
  * [LinearMouse](https://crowdin.com/project/linearmouse/es-ES)
  * [Microsoft MakeCode](https://crowdin.com/project/makecode/es-ES)
  * [Rallly](https://crowdin.com/project/rallly/es-ES)
+ * [Mochi Diffusion](https://crowdin.com/editor/mochi-diffusion/es-ES)
 
 #### Weblate
  * [Latest](https://github.com/mangerlahn/Latest) #updater #macosx #system #utility #installer
