@@ -21,6 +21,7 @@
 * [Beaver-Notes](https://github.com/Daniele-rolli/Beaver-Notes/) #documentation #markdown
 * [Realtime Thread Safety Watchdog](https://github.com/TheAmazingAudioEngine/RealtimeWatchdog) #iOS #documentation #audio #library
 * [Filmulator-gui](https://github.com/CarVac/filmulator-gui) #raw #image #editor #documentation
+* [Rugby](https://github.com/swiftyfinch/Rugby) #cocoapods #xcode #documentation
 
 
 #### Quicklook plugins
