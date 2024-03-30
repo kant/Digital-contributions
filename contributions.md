@@ -74,7 +74,7 @@
 
 ## Translations
 #### Forum
- * [Condor Club](https://www.condor.club/) #glider #simulation #game
+ * [Condor Club](https://www.condor.club/) #glider #simulation #game #forum
    
 #### Crowdin
  * [Excalidraw](https://crowdin.com/project/excalidraw/es-ES)
@@ -226,6 +226,9 @@
 
 #### Jquery
 * [Datatables](https://github.com/DataTables/DataTables) #tables #jquery
+
+#### Python
+* [Videogrep](https://github.com/antiboredom/videogrep) #video #cli #cut
 
 #### Chrome extension
 * [Vimium-C](https://github.com/gdh1995/vimium-c) #chrome #extension #shortcut #browser #accesibility  
