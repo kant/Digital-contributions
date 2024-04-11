@@ -122,6 +122,7 @@
 * [electron-wix-msi](https://github.com/electron-userland/electron-wix-msi) #electron #installer #windows
 * [Video-Hub-App](https://github.com/whyboris/Video-Hub-App) #video #browser #searcher
 * [electron-api-historian](https://github.com/electron/electron-api-historian) #API #electron
+* [electron-find](https://github.com/TheoXiong/electron-find) #searcher #electron #API
 
 #### Arduino
 * [Sensirion SFM3200 and SFM3400 library for Arduino](https://github.com/PubInv/SFM3X00) #arduino #openaire #DOI #zenodo
