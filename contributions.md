@@ -36,7 +36,7 @@
 
 ## 3D
 #### Blender
-* [Camera Projection Painter](https://github.com/BlenderHQ/camera_projection_painter) #photoscan #photogrammetry
+* [Blender Photogrammetry Importer](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) #plugin #photogrammetry #NeRF
 * [Nikitron_tools](https://github.com/nortikin/nikitron_tools) #2d #curves #3D #CAD
 * [MeasureIt_ARCH](https://github.com/kevancress/MeasureIt_ARCH) #architectural #drawing
 * [Halo-Asset-Blender-Development-Toolset](https://github.com/General-101/Halo-Asset-Blender-Development-Toolset) #blender #halo #assets #exporter
