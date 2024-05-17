@@ -216,7 +216,10 @@
 
 #### Data science
 * [dataflow-project-events](https://github.com/breatheco-de/dataflow-project-events) #data #science #pandas
-* [gephi](https://github.com/gephi/gephi) #visualization #graph-analytics 
+* [gephi](https://github.com/gephi/gephi) #visualization #graph-analytics
+
+#### R package
+* [paletteer](https://github.com/EmilHvitfeldt/paletteer) #R #package #palette #documentation
 
 #### React Native
 * [react-native-sqlite-2](https://github.com/craftzdog/react-native-sqlite-2) #react-native #sqlite3 #plugin
