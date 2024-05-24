@@ -169,6 +169,7 @@
 * [Datos](https://github.com/cienciadedatos/datos/tree/main) #R #translation #data-science
 * [osf-cas](https://github.com/CenterForOpenScience/osf-cas) #oauth2 #authentication #security #open-science
 * [arxiv-papers-mobile](https://github.com/lopespm/arxiv-papers-mobile) #papers #searcher #react-native #app
+* [Perfiles IDERA](https://github.com/idera/perfiles) #ISO #metadata #XML
 
 #### Parser
 * [Maximo COBie Parser](https://github.com/IBM/MaximoCOBieParser) #parser #excel
