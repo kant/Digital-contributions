@@ -172,6 +172,7 @@
 
 #### Medicine
 * [ventmon-ventilator-inline-test-monitor](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor) #covid #ventilator #pandemic #monitor
+* [moonrat](https://github.com/PubInv/moonrat) #incubator #petri #portable
   
 #### Parser
 * [Maximo COBie Parser](https://github.com/IBM/MaximoCOBieParser) #parser #excel
