@@ -23,7 +23,6 @@
 * [Filmulator-gui](https://github.com/CarVac/filmulator-gui) #raw #image #editor #documentation
 * [Rugby](https://github.com/swiftyfinch/Rugby) #cocoapods #xcode #documentation
 
-
 #### Quicklook plugins
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
 * [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) #quicklook #code #previewer
@@ -171,6 +170,9 @@
 * [arxiv-papers-mobile](https://github.com/lopespm/arxiv-papers-mobile) #papers #searcher #react-native #app
 * [Perfiles IDERA](https://github.com/idera/perfiles) #ISO #metadata #XML
 
+#### Medicine
+* [ventmon-ventilator-inline-test-monitor](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor) #covid #ventilator #pandemic #monitor
+  
 #### Parser
 * [Maximo COBie Parser](https://github.com/IBM/MaximoCOBieParser) #parser #excel
 * [tron](https://github.com/halo/tron) #monad #documentation
