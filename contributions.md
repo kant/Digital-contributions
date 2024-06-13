@@ -169,6 +169,7 @@
 * [osf-cas](https://github.com/CenterForOpenScience/osf-cas) #oauth2 #authentication #security #open-science
 * [arxiv-papers-mobile](https://github.com/lopespm/arxiv-papers-mobile) #papers #searcher #react-native #app
 * [Perfiles IDERA](https://github.com/idera/perfiles) #ISO #metadata #XML
+* [SpatialIDE](https://github.com/Teichlab/SpatialDE) #cancer #gene #spatial #variation #documentation
 
 #### Medicine
 * [ventmon-ventilator-inline-test-monitor](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor) #covid #ventilator #pandemic #monitor
