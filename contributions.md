@@ -32,6 +32,7 @@
 * [TRex](https://github.com/amebalabs/TRex) #text #capture #mac #app
 * [alt-tab-macos](https://poeditor.com/projects/shared?id=316051) #mac #app
 * [scanner](https://poeditor.com/projects/shared?id=402485) #mac #app
+<BR></BR>
 
 ## 3D
 #### Blender
@@ -61,6 +62,7 @@
 
 #### Unreal
 * [rokoko-studio-live-unreal-engine](https://github.com/Rokoko/rokoko-studio-live-unreal-engine) #unreal #editor #3d #documentation
+<BR></BR>
 
 ## Plugins
 #### Audio
@@ -70,6 +72,7 @@
 #### Graphics
   * [rio-tiler](https://github.com/cogeotiff/rio-tiler) #rasterio #datasets
   * [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) #rasterio #datasets #GeoTIFF
+<BR></BR>
 
 ## Translations
 #### Forum
@@ -103,6 +106,23 @@
 * [Qfield documentation](https://www.transifex.com/opengisch/qfield-documentation/) #GIS #fieldwork #mobile
 * [OpenMRS](https://www.transifex.com/openmrs/OpenMRS/dashboard/) #health #care #developing_countries #healthcare #record #system
 * [Web Scrobbler](https://www.transifex.com/web-scrobbler/teams/76120/es/) #last.fm #scrobbler
+<BR></BR>
+
+## Tutorial
+#### Javascript
+* [Javascript arrays exercises tutorial](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial) #javascript #documentation #academia
+
+#### Machine Learning
+* [Machine Learning Content](https://github.com/4GeeksAcademy/machine-learning-content) #machine_learning #documentation #academia
+* [Grobid](https://github.com/kermitt2/grobid) #machine_learning #documentation #academia #data
+* [IBM Taxinomitis](https://github.com/IBM/taxinomitis) #machine_learning #kids #documentation
+
+#### Web design
+* [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/) #webdesign #tutorial
+
+#### Ruby on Rails
+* [Aprende a Programar con Ruby](https://github.com/rubysur/aprende.a.programar) #ruby #tutorial
+<BR></BR>
 
 ## Miscellaneous
 #### Terminal
@@ -247,18 +267,8 @@
 #### Chrome extension
 * [Vimium-C](https://github.com/gdh1995/vimium-c) #chrome #extension #shortcut #browser #accesibility
 * [handsfree-for-website](https://github.com/sljavi/handsfree-for-website) #chrome #extension #accesibility #voice-control
-  
-## Tutorial
-#### Javascript
-* [Javascript arrays exercises tutorial](https://github.com/4GeeksAcademy/javascript-arrays-exercises-tutorial) #javascript #documentation #academia
 
-#### Machine Learning
-* [Machine Learning Content](https://github.com/4GeeksAcademy/machine-learning-content) #machine_learning #documentation #academia
-* [Grobid](https://github.com/kermitt2/grobid) #machine_learning #documentation #academia #data
-* [IBM Taxinomitis](https://github.com/IBM/taxinomitis) #machine_learning #kids #documentation
+#### Simulation
+* [ArduPilot Gazebo Plugin](https://github.com/ArduPilot/ardupilot_gazebo) #gazebo #simulation
 
-#### Web design
-* [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/) #webdesign #tutorial
-
-#### Ruby on Rails
-* [Aprende a Programar con Ruby](https://github.com/rubysur/aprende.a.programar) #ruby #tutorial
+<BR></BR>
