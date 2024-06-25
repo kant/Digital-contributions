@@ -23,6 +23,7 @@
 * [Filmulator-gui](https://github.com/CarVac/filmulator-gui) #raw #image #editor #documentation
 * [Rugby](https://github.com/swiftyfinch/Rugby) #cocoapods #xcode #documentation
 * [UTM](https://github.com/utmapp/UTM) #virtual #machine #iOS #mac #documentation
+* [KeyCastr](https://github.com/keycastr/keycastr) #keystroke #accesibility #visualizer
 
 #### Quicklook plugins
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
