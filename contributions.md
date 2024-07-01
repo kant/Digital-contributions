@@ -252,6 +252,7 @@
 #### R package
 * [paletteer](https://github.com/EmilHvitfeldt/paletteer) #R #package #palette #documentation
 * [Palimpsest](https://github.com/FunGeST/Palimpsest) #R #package #cancer #mutation #signature
+* [pairwiseAdonis](https://github.com/pmartinezarbizu/pairwiseAdonis) #R #package
 
 #### React Native
 * [react-native-sqlite-2](https://github.com/craftzdog/react-native-sqlite-2) #react-native #sqlite3 #plugin
