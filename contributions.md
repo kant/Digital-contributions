@@ -79,7 +79,7 @@
 
 ## Translations
 #### Forum
- * [Condor Club](https://www.condor.club/) #glider #simulation #game #forum
+ * [Condor Club](https://www.condor.club/) #glider #simulation #game #simulator #forum
    
 #### Crowdin
  * [Excalidraw](https://crowdin.com/project/excalidraw/es-ES)
@@ -234,6 +234,7 @@
 * [Fontello](https://github.com/fontello/fontello) #font #typography #API #web-app #documentation
 * [Poncho](https://github.com/argob/poncho) #framework #css #html #icon
 * [Poncheado](https://github.com/argob/poncho) #sandbox #framework #css #html #icon
+* [masonry](https://github.com/desandro/masonry) #layout #grid #javascript 
 
 #### Web-app
 * [Farmbot-Web-App](https://github.com/FarmBot/Farmbot-Web-App) #farm #ecology #web-app
