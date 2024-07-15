@@ -259,6 +259,7 @@
 #### React Native
 * [react-native-sqlite-2](https://github.com/craftzdog/react-native-sqlite-2) #react-native #sqlite3 #plugin
 * [React-Native-Voice](https://github.com/react-native-voice/voice) #accesibility #voice #recognition
+* [react-native-svg](https://github.com/software-mansion/react-native-svg/pull/930) #svg #library
   
 #### Javascript
 * [GoogleProjectZero Domato](https://github.com/googleprojectzero/domato) #dom #fuzzing #security
