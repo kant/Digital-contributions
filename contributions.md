@@ -54,7 +54,6 @@
 * [OpenCollada](https://github.com/KhronosGroup/OpenCOLLADA) #maya #plugin #documentation
 * [blender-mat-addon](https://github.com/songshibo/blender-mat-addon) #blender #import #documentation
 
-
 #### OpenScad
 * [threedeethings](https://github.com/spikespaz/threedeethings) #openSCAD #documentation
 
@@ -136,6 +135,9 @@
 * [sub](https://github.com/qrush/sub) #shell #bash #37signals
 * [VPNubt](https://github.com/KingKeule/VPNubt) #vpn #tunnel #broadcast
 * [spot](https://github.com/rauchg/spot) #searcher #file
+
+#### Packager
+* [Shaka packager](https://github.com/shaka-project/shaka-packager) #packager #stream #media
 
 #### Digitization
 * [Bibliohack_installer](https://github.com/Bibliohack/bibliohack_installer) #installer #post-processing #imaging #capture #books
