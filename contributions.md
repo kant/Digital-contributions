@@ -281,6 +281,7 @@
 #### Chrome extension
 * [Vimium-C](https://github.com/gdh1995/vimium-c) #chrome #extension #shortcut #browser #accesibility
 * [handsfree-for-website](https://github.com/sljavi/handsfree-for-website) #chrome #extension #accesibility #voice-control
+* [Markdown here](https://github.com/adam-p/markdown-here) #markdown #email #plugin #chrome #firefox #safari
 
 #### Linux
 * [Microsoft WSL](https://github.com/microsoft/WSL) #console #Linux
