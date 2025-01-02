@@ -250,7 +250,8 @@
 * [markdrop](https://github.com/zachwill/markdrop) #markdown #web-app
 * [democracyos](https://github.com/DemocracyOS/democracyos) #NGO #government #democracy #decision-making
 * [markdrop](https://github.com/zachwill/markdrop) #markdown #preview
-* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) #guide #extension #development 
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) #guide #extension #development
+* [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) #notion #translation
 
 #### Machine learning
 * [Apple Turi Create](https://github.com/apple/turicreate) #machine-learning #python #documentation
