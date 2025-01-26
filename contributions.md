@@ -38,6 +38,7 @@
 * [alt-tab-macos](https://poeditor.com/projects/shared?id=316051) #mac #app
 * [scanner](https://poeditor.com/projects/shared?id=402485) #mac #app
 * [elephicon](https://github.com/sprout2000/elephicon) #mac #icon #converter
+* [stats](https://github.com/exelban/stats) #mac #monitor #system
 <BR></BR>
 
 ## 3D
