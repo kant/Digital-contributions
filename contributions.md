@@ -206,6 +206,7 @@
 * [Perfiles IDERA](https://github.com/idera/perfiles) #ISO #metadata #XML
 * [SpatialIDE](https://github.com/Teichlab/SpatialDE) #cancer #gene #spatial #variation #documentation
 * [Google SentencePiece](https://github.com/google/sentencepiece) #language #tokenizer #neural #processing
+* [Homebrew-osgeo4mac](https://github.com/OSGeo/homebrew-osgeo4mac) #OSGEO #spatial #toolset #formulae #mac #environment
 
 #### Medicine
 * [ventmon-ventilator-inline-test-monitor](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor) #covid #ventilator #pandemic #monitor
