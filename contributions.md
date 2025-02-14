@@ -27,6 +27,7 @@
 * [mos](https://github.com/Caldis/Mos) #mouse #accesibility #scroll #documentation
 * [esse](https://github.com/amebalabs/Esse) #text #transformation #documentation
 * [brew](https://github.com/Homebrew/brew/) #package #manager
+* [brew.sh](https://brew.sh/) #website #documentation #package #manager
 
 #### Quicklook plugins
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
