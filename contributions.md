@@ -208,6 +208,7 @@
 * [SpatialIDE](https://github.com/Teichlab/SpatialDE) #cancer #gene #spatial #variation #documentation
 * [Google SentencePiece](https://github.com/google/sentencepiece) #language #tokenizer #neural #processing
 * [Homebrew-osgeo4mac](https://github.com/OSGeo/homebrew-osgeo4mac) #OSGEO #spatial #toolset #formulae #mac #environment
+* [covid-service-rs](https://github.com/mukundbhudia/covid-service-rs) #covid #csse 
 
 #### Medicine
 * [ventmon-ventilator-inline-test-monitor](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor) #covid #ventilator #pandemic #monitor
