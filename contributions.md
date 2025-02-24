@@ -299,6 +299,6 @@
 * [ArduPilot Gazebo Plugin](https://github.com/ArduPilot/ardupilot_gazebo) #gazebo #simulation
 
 #### Typography
-* [opendyslexic](https://github.com/antijingoist/opendyslexic) ætypography #dyslexia
+* [opendyslexic](https://github.com/antijingoist/opendyslexic) #typography #dyslexia
 
 <BR></BR>
