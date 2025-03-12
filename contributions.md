@@ -79,7 +79,8 @@
   * [openAV-ArtyFX](https://github.com/openAVproductions/openAV-ArtyFX) #auv3 #audio
   * [AUv3Support](https://github.com/bradhowes/AUv3Support) #swift #documentation #auv3 #audio #plugin #architecture
   * [SimplyLowPass](https://github.com/bradhowes/LPF) #auv3 #audio
-  * [lpf](https://github.com/bradhowes/LPF) #auv3 #audio #plugin #documentation 
+  * [lpf](https://github.com/bradhowes/LPF) #auv3 #audio #plugin #documentation
+  * [Befaco](https://github.com/VCVRack/Befaco) #VCV #rack #eurorack #documentation
     
 #### Graphics
   * [rio-tiler](https://github.com/cogeotiff/rio-tiler) #rasterio #datasets
