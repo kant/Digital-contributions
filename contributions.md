@@ -58,6 +58,7 @@
 * [GoB](https://github.com/JoseConseco/GoB) #Zbrush2blender #interface
 * [OpenCollada](https://github.com/KhronosGroup/OpenCOLLADA) #maya #plugin #documentation
 * [blender-mat-addon](https://github.com/songshibo/blender-mat-addon) #blender #import #documentation
+* [sverchock](https://github.com/nortikin/sverchok) #parametric #nodes #mesh #documentation
 
 #### OpenScad
 * [threedeethings](https://github.com/spikespaz/threedeethings) #openSCAD #documentation
