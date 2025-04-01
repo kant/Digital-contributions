@@ -226,7 +226,8 @@
 * [alles](https://github.com/bwhitman/alles) #synthesizer #mesh #documentation
 * [Chataigne](https://github.com/benkuper/Chataigne) #midi #installation #art #documentation
 * [musicindex](https://github.com/mikeln/musicindex) #forscore #books #documentation
-* [AbletonOSC](https://github.com/genekogan/ofxAbletonLive) #openFramework #ableton #ofx #add-on 
+* [AbletonOSC](https://github.com/genekogan/ofxAbletonLive) #openFramework #ableton #ofx #add-on
+* [pytschirp](https://github.com/christofmuc/pytschirp) #midi #synthesizer #python
 
 #### Wordpress plugin
 * [Anthologize](https://github.com/chnm/anthologize/) #wordpress #translation
