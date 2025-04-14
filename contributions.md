@@ -306,4 +306,7 @@
 #### Typography
 * [opendyslexic](https://github.com/antijingoist/opendyslexic) #typography #dyslexia
 
+#### Asistive device
+* [LipSync Wireless](https://github.com/makersmakingchange/LipSync-Wireless) #device #wireless #documentation
+
 <BR></BR>
