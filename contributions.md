@@ -229,6 +229,7 @@
 * [Chataigne](https://github.com/benkuper/Chataigne) #midi #installation #art #documentation
 * [musicindex](https://github.com/mikeln/musicindex) #forscore #books #documentation
 * [AbletonOSC](https://github.com/genekogan/ofxAbletonLive) #openFramework #ableton #ofx #add-on
+* [Ableton Push interface](https://github.com/Ableton/push-interface) #ableton #interface #documentation
 * [pytschirp](https://github.com/christofmuc/pytschirp) #midi #synthesizer #python
 
 #### Wordpress plugin
