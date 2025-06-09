@@ -29,6 +29,7 @@
 * [brew](https://github.com/Homebrew/brew/) #package #manager
 * [brew.sh](https://brew.sh/) #website #documentation #package #manager
 * [finicky](https://github.com/johnste/finicky) #browser #companion #documentation
+* [npm-gui](https://github.com/q-nick/npm-gui) #manager #npm #yarn #pnpm
 
 #### Quicklook plugins
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
