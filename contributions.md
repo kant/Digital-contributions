@@ -310,7 +310,10 @@
 #### Typography
 * [opendyslexic](https://github.com/antijingoist/opendyslexic) #typography #dyslexia
 
-#### Asistive device
+#### Assistive device
 * [LipSync Wireless](https://github.com/makersmakingchange/LipSync-Wireless) #device #wireless #documentation
+
+#### NPM
+* [Google Closure Builder](https://github.com/google/closure-builder) #npm #closure #javascript
 
 <BR></BR>
