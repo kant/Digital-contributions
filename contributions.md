@@ -42,6 +42,7 @@
 * [scanner](https://poeditor.com/projects/shared?id=402485) #mac #app
 * [elephicon](https://github.com/sprout2000/elephicon) #mac #icon #converter
 * [stats](https://github.com/exelban/stats) #mac #monitor #system
+* [Keka](https://github.com/aonez/Keka) #archiver #compression #utility
 <BR></BR>
 
 ## 3D
