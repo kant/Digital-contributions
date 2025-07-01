@@ -174,10 +174,11 @@
 
 #### API
 * [hoppscotch](https://github.com/hoppscotch/hoppscotch) #API #development #ecosystem #translation
+* [React Native gesture handler](https://github.com/software-mansion/react-native-gesture-handler) #API #development
 
 #### eBooks
 * [The Magic Book Project](https://github.com/runemadsen/Magic-Book-Project) #ebook #production
-* [thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders) #shaders #graphics #gisl
+* [The book of shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) #shaders #graphics #gisl
 
 #### Maps
 * [OpenMRS Atlas](https://github.com/openmrs/openmrs-contrib-atlas) #laravel #google-maps #server
