@@ -29,6 +29,7 @@
 * [brew](https://github.com/Homebrew/brew/) #package #manager
 * [brew.sh](https://brew.sh/) #website #documentation #package #manager
 * [finicky](https://github.com/johnste/finicky) #browser #companion #documentation
+* [Hyper](https://github.com/vercel/hyper/) #terminal #vercel #app #documentation
 
 #### Quicklook plugins
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
