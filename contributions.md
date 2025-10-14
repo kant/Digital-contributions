@@ -30,6 +30,7 @@
 * [brew.sh](https://brew.sh/) #website #documentation #package #manager
 * [finicky](https://github.com/johnste/finicky) #browser #companion #documentation
 * [Hyper](https://github.com/vercel/hyper/) #terminal #vercel #app #documentation
+* [PopClip extensions](https://github.com/pilotmoon/PopClip-Extensions) #extension #plugin
 
 #### Quicklook plugins
 * [QuickLook Video](https://github.com/Marginal/QLVideo) #quicklook #video #previewer
