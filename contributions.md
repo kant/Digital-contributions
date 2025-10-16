@@ -307,6 +307,7 @@
 
 #### Linux
 * [Microsoft WSL](https://github.com/microsoft/WSL) #console #Linux
+* [fuzzbunch-debian](https://github.com/mdiazcl/fuzzbunch-debian) #Linux #kali
 
 #### Simulation
 * [ArduPilot Gazebo Plugin](https://github.com/ArduPilot/ardupilot_gazebo) #gazebo #simulation
