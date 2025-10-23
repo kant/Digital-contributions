@@ -184,6 +184,7 @@
 
 #### Maps
 * [OpenMRS Atlas](https://github.com/openmrs/openmrs-contrib-atlas) #laravel #google-maps #server
+* [Little NavMap](https://github.com/albar965/littlenavmap-manual) #flight #planner #documentation
 
 #### Documentation
 * [nicedoc.io](https://github.com/IBM/nicedoc.io) #documentation #repositories #beautify
