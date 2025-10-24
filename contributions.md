@@ -191,6 +191,7 @@
 * [roadmap.sh](https://github.com/kamranahmedse/developer-roadmap) #API #documentation
 * [devhub-app-web](https://github.com/bcgov/devhub-app-web) #documentation #webapp #government
 * [Dwarves Playbook](https://github.com/dwarvesf/playbook) #documentation #procedure #checklist
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac/) #awesome-list #mac #reference
 
 #### Science
 * [Feast](https://github.com/cozygene/FEAST) #algorithm #microbial
