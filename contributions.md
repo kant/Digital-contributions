@@ -323,5 +323,6 @@
 #### NPM
 * [Google Closure Builder](https://github.com/google/closure-builder) #npm #closure #javascript
 * [npm-gui](https://github.com/q-nick/npm-gui) #manager #npm #yarn #pnpm
+* [nvm](https://github.com/nvm-sh/nvm) #node #manager #bash #POSIX
 
 <BR></BR>
