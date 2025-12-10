@@ -63,6 +63,7 @@
 * [OpenCollada](https://github.com/KhronosGroup/OpenCOLLADA) #maya #plugin #documentation
 * [blender-mat-addon](https://github.com/songshibo/blender-mat-addon) #blender #import #documentation
 * [sverchock](https://github.com/nortikin/sverchok) #parametric #nodes #mesh #documentation
+* [homemaker-addon](https://github.com/brunopostle/homemaker-addon) #spatial #geometry #mesh #documentation
 
 #### OpenScad
 * [threedeethings](https://github.com/spikespaz/threedeethings) #openSCAD #documentation
