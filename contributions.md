@@ -206,6 +206,7 @@
 * [PKP Lucene](https://github.com/pkp/lucene) #Solr #plugin #ojs #research
 * [PKP-sitesearch](https://github.com/ulsdevteam/pkp-sitesearch/) #journal #searcher 
 * [PKP OMP](https://github.com/pkp/omp) #server #management #science #library #research
+* [PKP Viewer](https://github.com/pkp/pdfJsViewer) #viewer #pdf #documentation
 * [Allowed Uploads](https://github.com/ajnyga/allowedUploads) #OJS #OMP #file #management #translation
 * [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) #graph #neural #network #documentation
 * [Awesome Software for Image Coloring](https://github.com/oskar-j/awesome-image-coloring) #documentation #awesomelist #deep_learning #python
