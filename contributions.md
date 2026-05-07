@@ -248,6 +248,7 @@
 
 #### Docker
 * [domino-container](https://github.com/HCL-TECH-SOFTWARE/domino-container) #docker #script #documentation
+* [MIRCourse](https://github.com/MTG/MIRCourse) #docker #jupyter #documentation
 
 #### AWS
 * [Stability-HPC](https://github.com/Stability-AI/stability-hpc) #amazon #infrastructure #cluster
