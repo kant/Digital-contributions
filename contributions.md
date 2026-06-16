@@ -306,6 +306,7 @@
 
 #### Python
 * [Videogrep](https://github.com/antiboredom/videogrep) #video #cli #cut
+* [Patch Based Semantic Segmentation Project Template](https://github.com/DeepTrial/Patch-Based-DL-Segemtation) #deep-learning #keras #tensorflow
 
 #### Chrome extension
 * [Vimium-C](https://github.com/gdh1995/vimium-c) #chrome #extension #shortcut #browser #accesibility
