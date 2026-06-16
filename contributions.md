@@ -318,6 +318,9 @@
 * [Microsoft WSL](https://github.com/microsoft/WSL) #console #Linux
 * [fuzzbunch-debian](https://github.com/mdiazcl/fuzzbunch-debian) #Linux #kali
 
+#### Networking
+* [sonic-buildimage](https://github.com/sonic-net/sonic-buildimage) #cloud #networking #image #controller
+
 #### Simulation
 * [ArduPilot Gazebo Plugin](https://github.com/ArduPilot/ardupilot_gazebo) #gazebo #simulation
 
