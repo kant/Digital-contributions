@@ -18,7 +18,7 @@
 * [gfxCardStatus](https://github.com/codykrieger/gfxCardStatus) #battery #menubar
 * [Google Santa](https://github.com/google/santa) #monitor #security #system
 * [localsend](https://github.com/localsend/localsend) #network #transfer #translation
-* [Beaver-Notes](https://github.com/Daniele-rolli/Beaver-Notes/) #documentation #markdown
+* [Beaver-Notes](https://github.com/Daniele-rolli/Beaver-Notes/) #documentation #markdown #text #editor
 * [Realtime Thread Safety Watchdog](https://github.com/TheAmazingAudioEngine/RealtimeWatchdog) #iOS #documentation #audio #library
 * [Filmulator-gui](https://github.com/CarVac/filmulator-gui) #raw #image #editor #documentation
 * [Rugby](https://github.com/swiftyfinch/Rugby) #cocoapods #xcode #documentation
