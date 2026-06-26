@@ -335,4 +335,6 @@
 * [npm-gui](https://github.com/q-nick/npm-gui) #manager #npm #yarn #pnpm
 * [nvm](https://github.com/nvm-sh/nvm) #node #manager #bash #POSIX
 
+#### Awesome-lists
+* [awesome mac](https://github.com/jaywcjlove/awesome-mac) #reference #awesome-list
 <BR></BR>
