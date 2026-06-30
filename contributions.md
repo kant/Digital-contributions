@@ -124,7 +124,7 @@
  * [Hedy](https://github.com/hedyorg/hedy) #python #e-learning
  * [CopyQ](https://github.com/hluk/CopyQ/) #clipboard
  * [Slicer](https://www.slicer.org/) #3D #printing
- * [pianobooster](http://pianobooster.sourceforge.net/) #midi #player #education
+ * [pianobooster](https://www.pianobooster.org/) #midi #player #education
 
 #### Crowdtranslate
  * [replacicon](https://www.crowdtranslate.io/contribute/replacicon/lang/es-ES) 
