@@ -122,6 +122,7 @@
 #### Weblate
  * [Latest](https://github.com/mangerlahn/Latest) #updater #macosx #system #utility #installer
  * [Hedy](https://github.com/hedyorg/hedy) #python #e-learning
+ * [CopyQ](https://github.com/hluk/CopyQ/) #clipboard
 
 #### Crowdtranslate
  * [replacicon](https://www.crowdtranslate.io/contribute/replacicon/lang/es-ES) 
