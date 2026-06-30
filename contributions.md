@@ -125,6 +125,7 @@
  * [CopyQ](https://github.com/hluk/CopyQ/) #clipboard
  * [Slicer](https://www.slicer.org/) #3D #printing
  * [pianobooster](https://www.pianobooster.org/) #midi #player #education
+ * [SimpleX](https://github.com/simplex-chat/simplex-chat/) #chat
 
 #### Crowdtranslate
  * [replacicon](https://www.crowdtranslate.io/contribute/replacicon/lang/es-ES) 
