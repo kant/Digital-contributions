@@ -123,6 +123,7 @@
  * [Latest](https://github.com/mangerlahn/Latest) #updater #macosx #system #utility #installer
  * [Hedy](https://github.com/hedyorg/hedy) #python #e-learning
  * [CopyQ](https://github.com/hluk/CopyQ/) #clipboard
+ * [Slicer](https://www.slicer.org/) #3D #printing
 
 #### Crowdtranslate
  * [replacicon](https://www.crowdtranslate.io/contribute/replacicon/lang/es-ES) 
