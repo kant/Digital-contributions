@@ -127,6 +127,7 @@
  * [pianobooster](https://www.pianobooster.org/) #midi #player #education
  * [SimpleX](https://github.com/simplex-chat/simplex-chat/) #chat
  * [Taiga-front](https://github.com/taigaio/taiga-front) #project #management
+ * [WebDOM](https://github.com/WebODM/WebODM) #aerial #imagery #drone
 
 #### Crowdtranslate
  * [replacicon](https://www.crowdtranslate.io/contribute/replacicon/lang/es-ES) 
